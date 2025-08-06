@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv/
+venv/
+ENV/
+env/
+*.sqlite3
+
+# FastAPI + Transformers
+*.log
+*.db
+*.pkl
+*.pt
+*.h5
+*.onnx
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Uploads and temporary storage
+backend/uploads/
+backend/temp/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Cache
+*.cache
+.cache/
+
+# Jupyter or notebook files
+.ipynb_checkpoints/

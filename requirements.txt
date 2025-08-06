@@ -1,0 +1,21 @@
+# FastAPI + Uvicorn
+fastapi==0.115.9
+uvicorn==0.29.0
+
+# For file uploads
+python-multipart==0.0.9
+
+# PDF extraction
+pymupdf==1.24.0  # Required for 'fitz'
+
+# Hugging Face Transformers
+transformers==4.41.2
+torch==2.3.0  # Backend for transformers
+
+# Optional (for environment configs and file serving)
+python-dotenv==1.0.1
+aiofiles==23.2.1  # Needed if serving static files like HTML
+
+# Logging (if you want to expand debugging)
+loguru==0.7.2
+pdfplumber
