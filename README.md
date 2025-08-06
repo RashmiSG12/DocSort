@@ -37,7 +37,7 @@ DocSort is an intelligent file organizer that allows users to upload PDF documen
 2. **Set up virtual environment**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate  
    ```
 
 3. **Install dependencies**
