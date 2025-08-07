@@ -68,7 +68,7 @@ DocSort is an intelligent file organizer that allows users to upload PDF documen
 ### 🔹 File upload
 ![Upload](images/uploaded.png)
 
-### 🔹 Organised Sucess Message
+### 🔹 Organized Success Message
 ![Category](images/organised.png)
 
 ---
